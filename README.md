@@ -3,8 +3,19 @@
 ### Para nos falarmos melhor me chame em
 📧 guralskicaroline@gmail 
 - @carolguralski
+
+- 
+  ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
   
- ![](https://tenor.com/pt-BR/view/eyebrow-raise-shrek-serious-gif-14262407)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/)
+
+![](https://tenor.com/pt-BR/view/the-rock-gif-23501265)
+
+
+
+
+
 
   
  
